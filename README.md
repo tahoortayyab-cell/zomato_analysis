@@ -182,7 +182,9 @@ This technique was applied in Q15, Q16, Q17, Q22, and Q28.
 ---
 
 **Author:** Tahoor Tayyab
+
 **GitHub:** [github.com/tahoortayyab-cell](https://github.com/tahoortayyab-cell)
+
 **LinkedIn:** [linkedin.com/in/tahoor-tayyab](https://linkedin.com/in/tahoor-tayyab)
 
 **SQL Project — Zomato Restaurant Analysis**
