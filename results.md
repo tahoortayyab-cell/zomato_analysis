@@ -300,4 +300,4 @@ High-density cities like New Delhi show below-average ratings — market saturat
 | Club Ice Cube | 230 | 2.0 | 0.16 | 0.23 |
 | Yo! China | 191 | 2.0 | 0.19 | 0.23 |
 
-> Note: Rating threshold relaxed to bottom 50% — strict bottom 20% yielded no results in this dataset.
+> Note: Rating threshold relaxed to bottom 50% — strict bottom 20% yielded no results in this dataset, and only the top 3 results of all queries are display here.
